@@ -32,6 +32,12 @@ Hello World Javascript
 - Whenever a space is found, capitalize the next character.
 - Append the remaining characters as they are.
 
+
+# 2. Count Uppercase and Lowercase Letters
+Count the total number of uppercase and lowercase letters present in a given string.
+
+**Note**: Checked each character and maintained separate counts for uppercase and lowercase letters.
+
 # What I Learned
 
 * How to check whether two strings are anagrams.
