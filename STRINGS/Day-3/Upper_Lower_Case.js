@@ -21,6 +21,7 @@
 
 // Method 2
 
+
 let str = "Hello JAVAscript is the BEST";
 
 let spaces = 0;
