@@ -1,4 +1,4 @@
-# Day 13 - Strings
+# Day 03 - Strings
 
 # Problems Solved
 
@@ -33,7 +33,7 @@ Hello World Javascript
 - Append the remaining characters as they are.
 
 
-# 2. Count Uppercase and Lowercase Letters
+# 3. Count Uppercase and Lowercase Letters
 Count the total number of uppercase and lowercase letters present in a given string.
 
 **Note**: Checked each character and maintained separate counts for uppercase and lowercase letters.
