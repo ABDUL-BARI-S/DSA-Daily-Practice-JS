@@ -1,7 +1,7 @@
 //Right Rotate Array by K positions
 
 let arr = [1, 2, 3, 4, 5, 6];  
-let k = 350;
+let k = 2;
 k = k %  arr.length; //8 % 6 = 2
 
 for(let i = 0; i < k; i++){   // O(k)
@@ -31,3 +31,5 @@ console.log(arr);//[5,6,1,2,3,4] O(n*k)
 //     arr[arr.length-1] = first; // [3,4,5,1,2]
 // }
 // console.log(arr);
+
+
